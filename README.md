@@ -1,6 +1,6 @@
 - 👋 Hi, I’m PRIYANSH SINGH
 - 👀 I’m interested in software and ML
-- 🌱 I’m currently learning ML and devlepmont
+- 🌱 I’m currently learning ML and development 
 - 📫 How to reach me gmail @priyanshsingh855
 - ⚡ Fun fact: Nothing much for now just grind
 
