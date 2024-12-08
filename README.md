@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Priyansh Singh, a Machine Learning Engineer with a passion for developing intelligent systems. I specialize in building scalable models for real-world applications and have a growing interest in front-end development.
+👋 Hi, I'm Priyansh Singh, a Machine Learning Engineer with a passion for developing intelligent systems. I specialize in building scalable models for real-world applications and have a growing interest in front-end development.
 
 Tech Skills :
  - Python/C++
