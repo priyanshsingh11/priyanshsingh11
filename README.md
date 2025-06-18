@@ -1,4 +1,5 @@
-👋 Hi, I'm Priyansh Singh, a Machine Learning Engineer with a passion for developing intelligent systems. I specialize in building scalable models for real-world applications.
+👋 Hi, I'm Priyansh Singh, a passionate Machine Learning Engineer and Full-Stack Developer with a strong focus on building intelligent, scalable, and user-centric systems. I specialize in developing end-to-end solutions, combining modern web technologies like ReactJS, NodeJS, and Docker with powerful machine learning and deep learning models. I enjoy working with APIs, crafting backend architectures, and leveraging tools like TensorFlow, Scikit-learn, and OpenCV to solve real-world problems.
+
 ## 🚀 My Tech Stack
 
 ### 💻 Languages
@@ -29,8 +30,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/APIs-Postman-orange?style=for-the-badge" alt="APIs" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
 </p>
 
 ### 🤖 Artificial Intelligence
