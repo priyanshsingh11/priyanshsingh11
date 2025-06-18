@@ -2,7 +2,7 @@
 
 👋 Hi, I'm Priyansh Singh, a passionate Machine Learning Engineer and Full-Stack Developer with a strong focus on building intelligent, scalable, and user-centric systems. I specialize in developing end-to-end solutions, combining modern web technologies like ReactJS, NodeJS, and Docker with powerful machine learning and deep learning models. I enjoy working with APIs, crafting backend architectures, and leveraging tools like TensorFlow, Scikit-learn, and OpenCV to solve real-world problems.
 
-[🔗 LinkedIn: Priyansh Singh](https://www.linkedin.com/in/priyansh-singh-575a57289/)
+LinkedIn [🔗 LinkedIn: Priyansh Singh](https://www.linkedin.com/in/priyansh-singh-575a57289/)
 
 
 ## 🚀 My Tech Stack
