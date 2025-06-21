@@ -39,5 +39,6 @@ LinkedIn [🔗 LinkedIn: Priyansh Singh](https://www.linkedin.com/in/priyansh-si
 
 ![Priyansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshsingh11&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshsingh11&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=priyanshsingh11&theme=radical&hide_border=true&border_radius=4.5)
 
 
