@@ -62,4 +62,6 @@ Let's connect and build something amazing together! 🌟
 
 ---
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiddharthNagaych&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SiddharthNagaych&show_icons=true&theme=tokyonight&count_private=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthNagaych&layout=compact&theme=tokyonight" /> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshsingh11&theme=tokyonight" alt="GitHub Streak" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=priyanshsingh11&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshsingh11&layout=compact&theme=tokyonight" alt="Top Languages" /> </p>
