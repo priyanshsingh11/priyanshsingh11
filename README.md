@@ -1,10 +1,7 @@
 <img src="https://steamuserimages-a.akamaihd.net/ugc/2438013375536940927/D370DBF7BFC83ED36F783F08A598FFF3E71A1D61/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="">
 
-<h1 align="center">Hi 👋, I'm Eduardo Nicoleit</h1>
-
 <h1 align="center">👋 Hi, I'm Priyansh Singh</h1>
 <h3 align="center">A passionate Machine Learning Engineer and Full-Stack Developer from India</h3>
-<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <a href="https://www.linkedin.com/in/priyansh-singh-575a57289/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> </p>
