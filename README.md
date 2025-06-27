@@ -62,4 +62,6 @@ Let's connect and build something amazing together! 🌟
 
 ---
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anikalp1&" alt="Priyansh Singh's GitHub Streak" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anikalp1&" alt="Priyansh Singh's GitHub Streak" />
+</p>
