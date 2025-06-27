@@ -62,6 +62,4 @@ Let's connect and build something amazing together! 🌟
 
 ---
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anikalp1&" alt="Priyansh Singh's GitHub Streak" />
-</p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiddharthNagaych&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SiddharthNagaych&show_icons=true&theme=tokyonight&count_private=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthNagaych&layout=compact&theme=tokyonight" /> </p>
