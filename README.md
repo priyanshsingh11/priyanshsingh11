@@ -57,7 +57,6 @@ Let's connect and build something amazing together! 🌟
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-orange?style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Data Preprocessing](https://img.shields.io/badge/Data%20Preprocessing-9cf?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ---
