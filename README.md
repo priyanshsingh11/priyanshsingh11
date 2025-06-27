@@ -21,7 +21,7 @@ I'm a **Machine Learning Engineer and Full-Stack Developer** with a strong focus
 - 💡 **Specializations:** Developing end-to-end solutions, real-world problem-solving with AI/ML.
 
 ---
-### What Fuels My Passion 🔥
+
 - **Innovating Solutions:** I thrive on leveraging technology to deconstruct complex challenges and engineer solutions that deliver tangible impact.
 - **Relentless Exploration:** My drive stems from continuously immersing myself in emerging frameworks, libraries, and tools across web development and AI/ML, always pushing the frontier of application.
 - **Catalyzing Collaboration:** I am deeply passionate about fostering connections with fellow innovators to collectively build groundbreaking projects that redefine technological possibilities.
