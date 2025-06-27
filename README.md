@@ -4,8 +4,6 @@
 <h3 align="center">A passionate Machine Learning Engineer and Full-Stack Developer from India</h3>
 
 
-<p align="left"> <a href="https://www.linkedin.com/in/priyansh-singh-575a57289/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> </p>
-
 - 🔭 I specialize in developing end-to-end solutions, combining modern web technologies like ReactJS, NodeJS, and Docker with powerful machine learning and deep learning models.
 - 🌱 I enjoy working with APIs, crafting backend architectures, and leveraging tools like TensorFlow, Scikit-learn, and OpenCV to solve real-world problems.
 - 👯 I’m looking to collaborate on **intelligent, scalable, and user-centric systems**.
