@@ -1,5 +1,6 @@
-![MasterHead](https://i.pinimg.com/originals/4d/16/78/4d1678e171347c4402c231dad0394f0f.gif)
-<img align="right" alt="coding" width="300"/>
+[![MasterHead](https://steamuserimages-a.akamaihd.net/ugc/1661224712069230981/BFD6A13BBBF6F1A2A7FA6A6DA961E0700E98660A/?imw=1024&imh=576&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)](https://github.com/Anikalp1)
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg">
+
 
 
 👋 Hi, I'm Priyansh Singh, a passionate Machine Learning Engineer and Full-Stack Developer with a strong focus on building intelligent, scalable, and user-centric systems. I specialize in developing end-to-end solutions, combining modern web technologies like ReactJS, NodeJS, and Docker with powerful machine learning and deep learning models. I enjoy working with APIs, crafting backend architectures, and leveraging tools like TensorFlow, Scikit-learn, and OpenCV to solve real-world problems.
