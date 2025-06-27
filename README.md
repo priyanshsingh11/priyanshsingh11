@@ -1,7 +1,7 @@
 <img src="https://steamuserimages-a.akamaihd.net/ugc/2438013375536940927/D370DBF7BFC83ED36F783F08A598FFF3E71A1D61/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="">
 
 <h1 align="center">👋 Hi, I'm Priyansh Singh</h1>
-<h3 align="center">A passionate Machine Learning Engineer and Full-Stack Developer from India</h3>
+<h3 align="center">A passionate Machine Learning Engineer and Full-Stack Developer </h3>
 
 - 🚀 **Innovating at the Intersection:** I specialize in architecting and deploying end-to-end solutions that seamlessly blend cutting-edge web technologies (ReactJS, NodeJS, and Docker) with powerful machine learning and deep learning models.
 - 💡 **Solving Complex Challenges:** Passionate about crafting robust backend architectures and leveraging advanced tools like TensorFlow, Scikit-learn, and OpenCV to develop innovative solutions for real-world problems through effective API integration.
