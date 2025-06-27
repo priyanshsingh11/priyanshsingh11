@@ -1,4 +1,6 @@
-[![MasterHead](https://steamuserimages-a.akamaihd.net/ugc/1661224712069230981/BFD6A13BBBF6F1A2A7FA6A6DA961E0700E98660A/?imw=1024&imh=576&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)](https://github.com/Anikalp1)
+<img src="https://steamuserimages-a.akamaihd.net/ugc/2438013375536940927/D370DBF7BFC83ED36F783F08A598FFF3E71A1D61/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="">
+
+<h1 align="center">Hi 👋, I'm Eduardo Nicoleit</h1>
 
 <h1 align="center">👋 Hi, I'm Priyansh Singh</h1>
 <h3 align="center">A passionate Machine Learning Engineer and Full-Stack Developer from India</h3>
