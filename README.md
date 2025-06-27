@@ -6,10 +6,10 @@
 - 🚀 **Innovating at the Intersection:** I specialize in architecting and deploying end-to-end solutions that seamlessly blend cutting-edge web technologies (ReactJS, NodeJS, and Docker) with powerful machine learning and deep learning models.
 - 💡 **Solving Complex Challenges:** Passionate about crafting robust backend architectures and leveraging advanced tools like TensorFlow, Scikit-learn, and OpenCV to develop innovative solutions for real-world problems through effective API integration.
 - 🤝 **Driving Collaborative Innovation:** Actively seeking collaboration opportunities on projects focused on building intelligent, scalable, and user-centric systems that push the boundaries of technology.
-
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/priyansh-singh-575a57289/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/priyansh-singh-575a57289/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---
