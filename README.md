@@ -7,8 +7,6 @@
   <a href="https://www.linkedin.com/in/priyansh-singh-575a57289/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
   </a>
-  <br>
-  LinkedIn
 </p>
 
 ## 🚀 My Tech Stack
