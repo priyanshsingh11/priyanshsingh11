@@ -3,9 +3,10 @@
 <h1 align="center">👋 Hi, I'm Priyansh Singh</h1>
 <h3 align="center">A passionate Machine Learning Engineer and Full-Stack Developer </h3>
 
-- 🚀 **Innovating at the Intersection:** I specialize in architecting and deploying end-to-end solutions that seamlessly blend cutting-edge web technologies (ReactJS, NodeJS, and Docker) with powerful machine learning and deep learning models.
-- 💡 **Solving Complex Challenges:** Passionate about crafting robust backend architectures and leveraging advanced tools like TensorFlow, Scikit-learn, and OpenCV to develop innovative solutions for real-world problems through effective API integration.
-- 🤝 **Driving Collaborative Innovation:** Actively seeking collaboration opportunities on projects focused on building intelligent, scalable, and user-centric systems that push the boundaries of technology.
+---
+## Innovating Full-Stack AI Solutions
+
+I build and deploy complete solutions, integrating **ReactJS, NodeJS, and Docker** with **machine learning and deep learning** models. I specialize in **robust backend architectures** and leverage tools like **TensorFlow, Scikit-learn, and OpenCV** to create innovative, API-driven solutions. I'm looking to collaborate on **intelligent, scalable, and user-centric systems.**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,20 +15,15 @@
 
 ---
 
-I'm a **Machine Learning Engineer and Full-Stack Developer** with a strong focus on building intelligent, scalable, and user-centric systems. Here's a bit about me:
-
-- 🔧 **Tech Stack:** ReactJS, NodeJS, Docker, TensorFlow, Scikit-learn, OpenCV, C++, Python, JavaScript, HTML5, CSS3, TailwindCSS, ExpressJS, MySQL, MongoDB
-- 🚀 **Skills:** Web development, machine learning, deep learning models, API integration, backend architecture, scalable systems.
-- 💡 **Specializations:** Developing end-to-end solutions, real-world problem-solving with AI/ML.
-
 ---
+## Full-Stack ML Engineer | Intelligent & Scalable Systems
 
-- **Innovating Solutions:** I thrive on leveraging technology to deconstruct complex challenges and engineer solutions that deliver tangible impact.
-- **Relentless Exploration:** My drive stems from continuously immersing myself in emerging frameworks, libraries, and tools across web development and AI/ML, always pushing the frontier of application.
-- **Catalyzing Collaboration:** I am deeply passionate about fostering connections with fellow innovators to collectively build groundbreaking projects that redefine technological possibilities.
+I'm a **Machine Learning Engineer and Full-Stack Developer** focused on building intelligent, scalable, and user-centric systems.
 
-Let's connect and build something amazing together! 🌟
+My **tech stack** includes **ReactJS, NodeJS, Docker, TensorFlow, Scikit-learn, OpenCV**, C++, Python, and databases like MySQL/MongoDB. I specialize in **end-to-end solutions**, from robust backend architecture and API integration to machine learning and deep learning applications.
 
+I'm passionate about **innovating solutions**, continuously exploring new technologies, and **collaborating** on groundbreaking projects. Let's build something amazing!
+---
 ---
 ## 🚀 My Tech Stack
 
