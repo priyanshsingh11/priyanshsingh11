@@ -44,6 +44,7 @@ I'm passionate about **innovating solutions**, continuously exploring new techno
 ### 🤖 Artificial Intelligence & Machine Learning
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-yellow?style=flat-square)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-orange?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
