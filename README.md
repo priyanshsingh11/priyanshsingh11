@@ -16,7 +16,7 @@ I build and deploy complete solutions, integrating **machine learning and deep l
 ---
 
 ---
-## Full-Stack ML Engineer | Intelligent & Scalable Systems
+## ML Engineer | Intelligent & Scalable Systems
 
 I'm a **Machine Learning Engineer** focused on building intelligent, scalable, and user-centric systems.
 
