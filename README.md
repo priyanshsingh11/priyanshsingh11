@@ -13,6 +13,8 @@ I build and deploy complete solutions, integrating **machine learning and deep l
 <a href="https://www.linkedin.com/in/priyansh-singh-575a57289/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
+Portfolio -> https://portfolio-xe6q.onrender.com/portfolio/
+
 ---
 
 ---
