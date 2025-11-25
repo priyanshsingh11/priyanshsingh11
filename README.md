@@ -4,7 +4,7 @@
 <h3 align="center"> AI powered developer </h3>
 
 ---
-## Innovating AIML Solutions
+## Innovating AIML Solutions and Data Analyst 
 
 I build and deploy complete solutions, integrating **machine learning and deep learning** models. I specialize in **robust backend architectures** and leverage tools like **TensorFlow, Scikit-learn, and OpenCV** to create innovative, API-driven solutions. I'm looking to collaborate on **intelligent, scalable, and user-centric systems.**
   
