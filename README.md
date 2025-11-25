@@ -1,7 +1,6 @@
 <img src="https://steamuserimages-a.akamaihd.net/ugc/2438013375536940927/D370DBF7BFC83ED36F783F08A598FFF3E71A1D61/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="">
 
 <h1 align="center">👋 Hi, I'm Priyansh Singh</h1>
-<h3 align="center"> AI powered developer </h3>
 
 ---
 ## Innovating AIML Solutions and Data Analyst 
