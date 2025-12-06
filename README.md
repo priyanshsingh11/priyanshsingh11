@@ -81,8 +81,17 @@ I'm passionate about **innovating solutions**, continuously exploring new techno
 ![APIs](https://img.shields.io/badge/APIs-blue?style=flat-square)
 
 ---
+<div align="center">
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshsingh11&theme=dark" width="400" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshsingh11&show_icons=true&theme=tokyonight" />
-</p>
+  <!-- LeetCode Card -->
+  <a href="https://leetcode.com/priyanshsingh11/">
+    <img src="https://leetcard.jacoblin.cool/priyanshsingh11?theme=dark" width="400" />
+  </a>
 
+  <!-- Codewars Badge -->
+  <a href="https://www.codewars.com/users/priyanshsingh11">
+    <img src="https://www.codewars.com/users/priyanshsingh11/badges/large" />
+  </a>
+</div>
