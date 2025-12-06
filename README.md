@@ -82,11 +82,7 @@ I'm passionate about **innovating solutions**, continuously exploring new techno
 
 ---
 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshsingh11&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" /> 
-</p>
-
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshsingh11&layout=compact&theme=tokyonight" alt="Top Languages" /> 
+<p align="center">
+  <img src="https://github-readme-stats-peach-rho.vercel.app/api?username=priyanshsingh11&show_icons=true&theme=tokyonight" />
 </p>
 
