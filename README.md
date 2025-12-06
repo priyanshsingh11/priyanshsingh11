@@ -89,9 +89,4 @@ I'm passionate about **innovating solutions**, continuously exploring new techno
   <a href="https://leetcode.com/priyanshsingh11/">
     <img src="https://leetcard.jacoblin.cool/priyanshsingh11?theme=dark" width="400" />
   </a>
-
-  <!-- Codewars Badge -->
-  <a href="https://www.codewars.com/users/priyanshsingh11">
-    <img src="https://www.codewars.com/users/priyanshsingh11/badges/large" />
-  </a>
 </div>
