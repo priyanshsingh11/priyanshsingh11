@@ -83,7 +83,8 @@ I'm passionate about **innovating solutions**, continuously exploring new techno
 ---
 <div align="center">
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshsingh11&theme=dark" width="400" />
+  <img src="https://streak-stats.demolab.com/?user=priyanshsingh11&theme=dark" width="400" />
+
 
   <!-- LeetCode Card -->
   <a href="https://leetcode.com/priyanshsingh11/">
