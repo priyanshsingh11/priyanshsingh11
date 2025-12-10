@@ -17,6 +17,12 @@ I am a **Data Scientist & Machine Learning Engineer** skilled in designing data-
 
 Portfolio → **https://portfolio-xe6q.onrender.com/portfolio/**
 
+### 🔹 What I Focus On  
+- Building ML/DL models for classification, prediction & computer vision  
+- Turning raw data into actionable insights through analytics & BI  
+- Developing FastAPI backends that integrate machine learning  
+- Writing clean, maintainable, and production-ready code  
+
 ---
 
 # 🧰 Tools & Technologies  
