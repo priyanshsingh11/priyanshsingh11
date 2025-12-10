@@ -6,7 +6,8 @@
 ---
 
 ## 🚀 About Me  
-I am a **Data Scientist & ML Engineer** skilled in building intelligent ML/DL models, transformer-based solutions (general), data-driven insights, and efficient FastAPI backends. I enjoy creating clean, scalable, and impactful systems.
+
+I am a **Data Scientist and Machine Learning Engineer** with a strong focus on building intelligent, data-driven, and scalable solutions. I work across the full ML lifecycle—data preparation, model development, evaluation, and deployment—using tools like Python, PyTorch, TensorFlow, and Scikit-learn. I also have experience in Data Analytics, creating insightful dashboards with Power BI/Tableau and driving business decisions through clean and structured data analysis. Alongside this, I develop backend services using FastAPI to integrate ML models into real-world applications. I enjoy solving problems, learning continuously, and building systems that create real impact.
 
 ---
 
@@ -19,33 +20,15 @@ Portfolio → **https://portfolio-xe6q.onrender.com/portfolio/**
 
 ---
 
-# 🧠 What I Do  
+# 🧰 Tech Stack (Modern Rounded UI)
 
-### 🔹 **Machine Learning & Deep Learning**  
-- Model development & evaluation  
-- Feature engineering  
-- Vision & basic transformer tasks  
-
-### 🔹 **Data Analytics**  
-- Power BI / Tableau dashboards  
-- Data modeling, cleaning & SQL insights  
-
-### 🔹 **Backend (FastAPI)**  
-- API development  
-- ML model integration  
-- Lightweight backend services  
-
----
-
-# 🧰 Tech Stack
-
-## 💻 Languages  
+## 💻 Programming Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ---
 
-## 🌐 Backend & Web  
+## 🌐 Backend & Web Development  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -54,7 +37,7 @@ Portfolio → **https://portfolio-xe6q.onrender.com/portfolio/**
 
 ---
 
-## 🤖 ML & DL  
+## 🤖 Machine Learning & Deep Learning  
 ![Machine Learning](https://img.shields.io/badge/ML-4CAF50?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/DL-FF6F00?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -64,7 +47,7 @@ Portfolio → **https://portfolio-xe6q.onrender.com/portfolio/**
 
 ---
 
-## 📊 Analytics & BI  
+## 📊 Data Analytics & BI  
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
