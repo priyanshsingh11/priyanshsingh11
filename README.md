@@ -65,11 +65,7 @@ Portfolio → **https://portfolio-xe6q.onrender.com/portfolio/**
 
 ---
 
-# 📈 Stats & Coding Activity  
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=priyanshsingh11&theme=dark" width="400" />
-<br/>
 
 <a href="https://leetcode.com/priyanshsingh11/">
   <img src="https://leetcard.jacoblin.cool/priyanshsingh11?theme=dark" width="400" />
