@@ -67,8 +67,5 @@ Portfolio → **https://portfolio-xe6q.onrender.com/portfolio/**
 
 <div align="center">
 
-<a href="https://leetcode.com/priyanshsingh11/">
-  <img src="https://leetcard.jacoblin.cool/priyanshsingh11?theme=dark" width="400" />
-</a>
 
 </div>
