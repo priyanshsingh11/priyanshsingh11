@@ -50,8 +50,6 @@ Portfolio → **https://portfolio-xe6q.onrender.com/portfolio/**
 
 ---
 
-## 🌐 **MERN Stack (Full-Stack Development)**
-
 ### **MERN Technologies**
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -59,8 +57,6 @@ Portfolio → **https://portfolio-xe6q.onrender.com/portfolio/**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ---
-
-## 🤖 **Generative AI & LLMs**
 
 ### **GenAI Technologies**
 ![Transformers](https://img.shields.io/badge/Transformers-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)
