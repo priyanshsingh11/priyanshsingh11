@@ -6,9 +6,9 @@
 
 ## 🚀 About Me  
 
-I am a **Data Scientist & Machine Learning Engineer** skilled in designing data-driven solutions, developing ML/DL models, and transforming raw data into valuable insights. My experience spans across model building, analytics, and backend integration using FastAPI. I enjoy solving real-world problems with clean, efficient code and creating intuitive dashboards that support data-backed decision-making.  
+I am a **Data Scientist & Machine Learning Engineer** skilled in designing data-driven solutions, developing ML/DL models, and transforming raw data into valuable insights. My experience spans across model building, analytics, backend integration, and applied Generative AI.  
 
-My goal is to build **reliable, scalable, and production-ready systems** that deliver intelligent outcomes and real business value.
+I enjoy solving real-world problems with clean, efficient code and creating intuitive dashboards that support data-backed decision-making. My goal is to build **reliable, scalable, and production-ready systems** that deliver intelligent outcomes and real business value.
 
 ---
 
@@ -25,8 +25,9 @@ Portfolio → **https://portfolio-xe6q.onrender.com/portfolio/**
 ## 🔹 What I Focus On  
 
 - Building ML/DL models for **classification, prediction & computer vision**
+- Developing **Generative AI applications** using LLMs and transformers
 - Turning raw data into **actionable insights** using analytics & BI
-- Developing **FastAPI backends** that integrate machine learning models
+- Developing **FastAPI backends** that integrate ML & GenAI models
 - Writing **clean, maintainable, and production-ready code**
 - Designing **end-to-end pipelines** from data to deployment
 
@@ -50,11 +51,22 @@ Portfolio → **https://portfolio-xe6q.onrender.com/portfolio/**
 ---
 
 ## 🌐 **MERN Stack (Full-Stack Development)**
+
 ### **MERN Technologies**
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+---
+
+## 🤖 **Generative AI & LLMs**
+
+### **GenAI Technologies**
+![Transformers](https://img.shields.io/badge/Transformers-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)
+![Hugging%20Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C1C1C?style=for-the-badge&logo=chainlink&logoColor=white)
+
 
 ---
 
