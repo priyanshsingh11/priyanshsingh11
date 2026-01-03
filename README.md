@@ -35,7 +35,6 @@ Portfolio → **https://portfolio-xe6q.onrender.com/portfolio/**
 
 # 🧰 Tools & Technologies  
 
-## **Programming & Backend**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -71,9 +70,5 @@ Portfolio → **https://portfolio-xe6q.onrender.com/portfolio/**
 ---
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=priyanshsingh11&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshsingh11&layout=compact&theme=tokyonight" alt="Top Languages" />
 
 </div>
