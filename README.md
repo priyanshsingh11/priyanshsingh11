@@ -24,14 +24,7 @@ My work spans **data analysis, model development, Generative AI, backend enginee
 
 Portfolio → **https://portfolio-xe6q.onrender.com/portfolio/**
 
----
-
-## What I Focus On  
-- Build ML/DL and AI systems  
-- Develop GenAI apps with LLMs & RAG  
-- Create scalable MERN and backend services  
-- Perform data analysis and visualization  
-- Deliver clean, production-ready pipelines  
+--- 
 
 # Tools & Technologies  
 
