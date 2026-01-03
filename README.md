@@ -110,9 +110,10 @@ Portfolio → **https://portfolio-xe6q.onrender.com/portfolio/**
 
 ---
 
-<center>
-    <img align="center" alt="snek" src="https://github.com/harshitt13/harshitt13/blob/output/github-contribution-grid-snake-dark.svg" />
-</center>
+<p align="center">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/priyanshsingh11/priyanshsingh11/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 ---
 
 ## 🌍 Profile Views  
