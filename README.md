@@ -27,16 +27,11 @@ Portfolio → **https://portfolio-xe6q.onrender.com/portfolio/**
 ---
 
 ## What I Focus On  
-
-- Building **ML/DL models** for classification, prediction & computer vision  
-- Developing **AI & Generative AI systems** using LLMs, RAG & agentic workflows  
-- Designing **MERN stack applications** with scalable architectures  
-- Developing **FastAPI & Node.js backends** integrated with AI models  
-- Performing **data analysis & visualization** for decision-making  
-- Writing **clean, maintainable, and production-grade software**  
-- Designing **end-to-end pipelines** from data ingestion to deployment  
-
----
+- Build ML/DL and AI systems  
+- Develop GenAI apps with LLMs & RAG  
+- Create scalable MERN and backend services  
+- Perform data analysis and visualization  
+- Deliver clean, production-ready pipelines  
 
 # Tools & Technologies  
 
