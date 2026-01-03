@@ -89,6 +89,11 @@ Portfolio → **https://portfolio-xe6q.onrender.com/portfolio/**
 
 ---
 
+| ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=priyanshsingh11&show_icons=true&theme=dark&locale=en&layout=compact) | ![WakaTime Stats](https://wakatime.com/share/@priyanshsingh11/2667fb96-2035-423c-8452-40f947c9070f.svg) |
+|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshsingh11&show_icons=true&theme=dark&locale=en) | ![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyanshsingh11&theme=dark) |
+
+
 <p align="center">
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/priyanshsingh11/priyanshsingh11/output/github-contribution-grid-snake-dark.svg" />
 </p>
