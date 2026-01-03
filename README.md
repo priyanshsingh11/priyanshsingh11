@@ -74,15 +74,18 @@ Portfolio → **https://portfolio-xe6q.onrender.com/portfolio/**
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=30)
 
 ---
+
 ## Most Used Tech  
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshsingh11&layout=compact&theme=radical&hide_border=true&cache_seconds=21600"
-    width="420"
-  />
-</p>
-
+- Python (AI, ML, data pipelines)
+- JavaScript (MERN stack, frontend & backend)
+- FastAPI & Node.js (API development)
+- MongoDB & MySQL (data storage & modeling)
+- PyTorch & TensorFlow (deep learning)
+- LangChain & LangGraph (LLM orchestration)
+- Power BI & Tableau (analytics & visualization)
+  
+---
 
 ## GitHub Trophies  
 
