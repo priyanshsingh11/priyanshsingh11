@@ -89,9 +89,9 @@ Portfolio → **https://portfolio-xe6q.onrender.com/portfolio/**
 
 ---
 
-| ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=priyanshsingh11&show_icons=true&theme=dark&locale=en&layout=compact) | ![WakaTime Stats](https://wakatime.com/share/@priyanshsingh11/2667fb96-2035-423c-8452-40f947c9070f.svg) |
+| ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshsingh11&layout=compact&theme=dark) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshsingh11&show_icons=true&theme=dark) |
 |------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshsingh11&show_icons=true&theme=dark&locale=en) | ![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyanshsingh11&theme=dark) |
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyanshsingh11&theme=dark) | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=priyanshsingh11&theme=github-dark) |
 
 
 <p align="center">
