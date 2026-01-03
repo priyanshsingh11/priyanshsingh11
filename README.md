@@ -18,11 +18,14 @@ My work spans **data analysis, model development, Generative AI, backend enginee
 
 ## Connect With Me  
 
-<a href="https://www.linkedin.com/in/priyansh-singh-575a57289/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /> </a>
+<a href="https://www.linkedin.com/in/priyansh-singh-575a57289/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /> 
+</a>
 <a href="https://www.instagram.com/xpriyanshsingh/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
 </a>
 
+---
 
 Portfolio → **https://portfolio-xe6q.onrender.com/portfolio/**
 
