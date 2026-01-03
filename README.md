@@ -78,8 +78,8 @@ Portfolio → **https://portfolio-xe6q.onrender.com/portfolio/**
 ## GitHub Highlights  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshsingh11&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshsingh11&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshsingh11&show_icons=true&theme=radical&hide_border=true" width="420" />
+  <img src="https://streak-stats.demolab.com?user=priyanshsingh11&theme=radical&hide_border=true" width="420" />
 </p>
 
 ---
