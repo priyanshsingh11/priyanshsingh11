@@ -49,6 +49,8 @@ Portfolio → **https://portfolio-xe6q.onrender.com/portfolio/**
 ![Transformers](https://img.shields.io/badge/Transformers-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Hugging%20Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C1C1C?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-2B2B2B?style=for-the-badge&logo=graphviz&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented--Generation-6A5ACD?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FFDD00?style=for-the-badge&logo=robot-framework&logoColor=black)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
