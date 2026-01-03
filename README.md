@@ -2,13 +2,17 @@
 
 <h1 align="center">👋 Hi, I'm Priyansh Singh</h1>
 
+<p align="center">
+  <b>Data Scientist | AI Engineer | MERN Stack Developer | Software Developer | Data Analyst</b>
+</p>
+
 ---
 
 ## 🚀 About Me  
 
-I am a **Data Scientist & Machine Learning Engineer** skilled in designing data-driven solutions, developing ML/DL models, and transforming raw data into valuable insights. My experience spans across model building, analytics, backend integration, and applied Generative AI.  
+I am a **Data Scientist and AI Engineer** with strong experience in **MERN stack development, software engineering, and data analysis**. I build **end-to-end, production-ready systems** — from full-stack web applications and scalable backend services to machine learning, deep learning, and AI-powered solutions.
 
-I enjoy solving real-world problems with clean, efficient code and creating intuitive dashboards that support data-backed decision-making. My goal is to build **reliable, scalable, and production-ready systems** that deliver intelligent outcomes and real business value.
+My work spans **data analysis, model development, Generative AI, backend engineering, and full-stack development**. I enjoy solving real-world problems with clean, efficient code and delivering systems that create **measurable business impact**.
 
 ---
 
@@ -24,12 +28,13 @@ Portfolio → **https://portfolio-xe6q.onrender.com/portfolio/**
 
 ## 🔹 What I Focus On  
 
-- Building ML/DL models for **classification, prediction & computer vision**
-- Developing **Generative AI applications** using LLMs and transformers
-- Turning raw data into **actionable insights** using analytics & BI
-- Developing **FastAPI backends** that integrate ML & GenAI models
-- Writing **clean, maintainable, and production-ready code**
-- Designing **end-to-end pipelines** from data to deployment
+- Building **ML/DL models** for classification, prediction & computer vision  
+- Developing **AI & Generative AI systems** using LLMs, RAG & agentic workflows  
+- Designing **MERN stack applications** with scalable architectures  
+- Developing **FastAPI & Node.js backends** integrated with AI models  
+- Performing **data analysis & visualization** for decision-making  
+- Writing **clean, maintainable, and production-grade software**  
+- Designing **end-to-end pipelines** from data ingestion to deployment  
 
 ---
 
@@ -68,9 +73,73 @@ Portfolio → **https://portfolio-xe6q.onrender.com/portfolio/**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&logoWidth=30)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=30)
 
+---
+
+## ⚡ GitHub Highlights  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshsingh11&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshsingh11&theme=radical&hide_border=true" height="170"/>
+</p>
 
 ---
 
-<div align="center">
+## 🧠 Most Used Tech  
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshsingh11&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=priyanshsingh11&theme=radical&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+## 🧪 What I Love Building  
+
+- AI & **LLM-powered systems** grounded with RAG  
+- **Agentic workflows** using LangGraph  
+- Full-stack **MERN applications**  
+- Scalable **software systems & APIs**  
+- Data-driven **ML & CV solutions**  
+
+---
+
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/priyanshsingh11/priyanshsingh11/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌍 Profile Views  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=priyanshsingh11&label=Profile%20Views&color=red&style=for-the-badge"/>
+</p>
+
+---
+
+## ✨ Quote I Live By  
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
+
+---
+
+## 🤝 Let’s Build Something Impactful  
+
+- 💼 Open to **Software, AI, ML & Data roles**
+- 🧠 Love solving **hard real-world problems**
+- 🚀 Believe in **production > theory**
+
+<p align="center">
+  <b>⭐ If you like my work, consider starring a repo ⭐</b>
+</p>
