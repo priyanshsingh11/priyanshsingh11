@@ -1,6 +1,6 @@
 <img src="https://steamuserimages-a.akamaihd.net/ugc/2438013375536940927/D370DBF7BFC83ED36F783F08A598FFF3E71A1D61/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="100%" />
 
-<h1 align="center">👋 Hi, I'm Priyansh Singh</h1>
+<h1 align="center">Hi, I'm Priyansh Singh</h1>
 
 <p align="center">
   <b>Data Scientist | AI Engineer | MERN Stack Developer | Software Developer | Data Analyst</b>
@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 About Me  
+## About Me  
 
 I am a **Data Scientist and AI Engineer** with strong experience in **MERN stack development, software engineering, and data analysis**. I build **end-to-end, production-ready systems** — from full-stack web applications and scalable backend services to machine learning, deep learning, and AI-powered solutions.
 
@@ -16,7 +16,7 @@ My work spans **data analysis, model development, Generative AI, backend enginee
 
 ---
 
-## 🌐 Connect With Me  
+## Connect With Me  
 
 <a href="https://www.linkedin.com/in/priyansh-singh-575a57289/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
@@ -26,7 +26,7 @@ Portfolio → **https://portfolio-xe6q.onrender.com/portfolio/**
 
 ---
 
-## 🔹 What I Focus On  
+## What I Focus On  
 
 - Building **ML/DL models** for classification, prediction & computer vision  
 - Developing **AI & Generative AI systems** using LLMs, RAG & agentic workflows  
@@ -38,7 +38,7 @@ Portfolio → **https://portfolio-xe6q.onrender.com/portfolio/**
 
 ---
 
-# 🧰 Tools & Technologies  
+# Tools & Technologies  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=30)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&logoWidth=30)
@@ -75,7 +75,7 @@ Portfolio → **https://portfolio-xe6q.onrender.com/portfolio/**
 
 ---
 
-## ⚡ GitHub Highlights  
+## GitHub Highlights  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=priyanshsingh11&show_icons=true&theme=radical&hide_border=true" height="170"/>
@@ -84,7 +84,7 @@ Portfolio → **https://portfolio-xe6q.onrender.com/portfolio/**
 
 ---
 
-## 🧠 Most Used Tech  
+## Most Used Tech  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshsingh11&layout=compact&theme=radical&hide_border=true"/>
@@ -92,7 +92,7 @@ Portfolio → **https://portfolio-xe6q.onrender.com/portfolio/**
 
 ---
 
-## 🏆 GitHub Trophies  
+## GitHub Trophies  
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=priyanshsingh11&theme=radical&no-frame=true&row=1&column=7"/>
@@ -100,7 +100,7 @@ Portfolio → **https://portfolio-xe6q.onrender.com/portfolio/**
 
 ---
 
-## 🧪 What I Love Building  
+## What I Love Building  
 
 - AI & **LLM-powered systems** grounded with RAG  
 - **Agentic workflows** using LangGraph  
@@ -116,7 +116,7 @@ Portfolio → **https://portfolio-xe6q.onrender.com/portfolio/**
 
 ---
 
-## 🌍 Profile Views  
+## Profile Views  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=priyanshsingh11&label=Profile%20Views&color=red&style=for-the-badge"/>
@@ -124,7 +124,7 @@ Portfolio → **https://portfolio-xe6q.onrender.com/portfolio/**
 
 ---
 
-## ✨ Quote I Live By  
+## Quote I Live By  
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
@@ -132,14 +132,12 @@ Portfolio → **https://portfolio-xe6q.onrender.com/portfolio/**
 
 ---
 
-## 🤝 Let’s Build Something Impactful  
+## Let’s Build Something Impactful  
 
-- 💼 Open to **Software, AI, ML & Data roles**
-- 🧠 Love solving **hard real-world problems**
-- 🚀 Believe in **production > theory**
+- Open to **Software, AI, ML & Data roles**
+- Love solving **hard real-world problems**
+- Believe in **production > theory**
 
 <p align="center">
-  <b>⭐ If you like my work, consider starring a repo ⭐</b>
-
-make this preoffesinal and add mroe cool stuff but remove those unwanted emojis onlt add veey few
+  <b>If you like my work, consider starring a repository.</b>
 </p>
