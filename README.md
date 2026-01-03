@@ -74,23 +74,15 @@ Portfolio → **https://portfolio-xe6q.onrender.com/portfolio/**
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=30)
 
 ---
-
-## GitHub Highlights  
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=priyanshsingh11&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=priyanshsingh11&theme=radical&hide_border=true" />
-</p>
-
----
-
 ## Most Used Tech  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshsingh11&layout=compact&theme=radical&hide_border=true"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshsingh11&layout=compact&theme=radical&hide_border=true&cache_seconds=21600"
+    width="420"
+  />
 </p>
 
----
 
 ## GitHub Trophies  
 
