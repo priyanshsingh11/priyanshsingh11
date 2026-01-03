@@ -89,9 +89,6 @@ Portfolio → **https://portfolio-xe6q.onrender.com/portfolio/**
 
 ---
 
-| ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshsingh11&layout=compact&theme=dark) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshsingh11&show_icons=true&theme=dark) |
-|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyanshsingh11&theme=dark) | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=priyanshsingh11&theme=github-dark) |
 
 
 <p align="center">
