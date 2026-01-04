@@ -26,13 +26,12 @@ My work spans **data analysis, model development, Generative AI, backend enginee
   <a href="https://www.instagram.com/xpriyanshsingh/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://portfolio-xe6q.onrender.com/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
----
-
-Portfolio → **https://portfolio-xe6q.onrender.com/portfolio/**
-
---- 
 
 # Tools & Technologies  
 
