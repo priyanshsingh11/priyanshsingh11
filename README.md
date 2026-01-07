@@ -70,10 +70,14 @@ My work spans **data analysis, model development, Generative AI, backend enginee
 
 ---
 
-## GitHub Trophies  
+## 📊 GitHub 3D Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=priyanshsingh11&theme=radical&no-frame=true&row=1&column=7"/>
+  <img 
+    src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/main/profile-3d-contrib/profile-night-rainbow.svg"
+    alt="GitHub Profile 3D Contribution"
+    width="100%"
+  />
 </p>
 
 ---
