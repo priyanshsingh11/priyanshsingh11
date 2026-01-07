@@ -69,14 +69,7 @@ My work spans **data analysis, model development, Generative AI, backend enginee
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=30)
 
 ---
-
-<p align="center">
-  <img 
-    src="https://github.com/priyanshsingh11/priyanshsingh11/blob/main/profile-3d-contrib/profile-night-rainbow.svg"
-    alt="GitHub Profile 3D Contribution"
-    width="100%"
-  />
-</p>
+![GitHub 3D Contribution](https://github.com/priyanshsingh11/priyanshsingh11/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
 
