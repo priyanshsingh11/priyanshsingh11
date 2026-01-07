@@ -70,8 +70,7 @@ My work spans **data analysis, model development, Generative AI, backend enginee
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshsingh11&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshsingh11&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=priyanshsingh11&theme=radical&no-frame=true&column=6" />
 </p>
 
 ---
