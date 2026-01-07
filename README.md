@@ -1,17 +1,8 @@
 <img src="https://steamuserimages-a.akamaihd.net/ugc/2438013375536940927/D370DBF7BFC83ED36F783F08A598FFF3E71A1D61/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="125%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?
-  size=26
-  &duration=3000
-  &pause=800
-  &center=true
-  &vCenter=true
-  &width=650
-  &lines=Hi%2C+I'm+Priyansh+Singh
-  &color=gradient" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=800&center=true&vCenter=true&width=650&color=36BCF7&lines=Hi%2C+I'm+Priyansh+Singh" />
 </p>
-
 
 <p align="center">
   <b>Data Scientist | AI Engineer | MERN Stack Developer | Software Developer | Data Analyst</b>
