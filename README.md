@@ -70,11 +70,9 @@ My work spans **data analysis, model development, Generative AI, backend enginee
 
 ---
 
-## 📊 GitHub 3D Contribution Graph
-
 <p align="center">
   <img 
-    src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/main/profile-3d-contrib/profile-night-rainbow.svg"
+    src="https://github.com/priyanshsingh11/priyanshsingh11/blob/main/profile-3d-contrib/profile-night-rainbow.svg"
     alt="GitHub Profile 3D Contribution"
     width="100%"
   />
