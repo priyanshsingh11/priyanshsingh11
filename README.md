@@ -1,6 +1,8 @@
 <img src="https://steamuserimages-a.akamaihd.net/ugc/2438013375536940927/D370DBF7BFC83ED36F783F08A598FFF3E71A1D61/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="125%" />
 
-<h1 align="center">Hi, I'm Priyansh Singh</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=800&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Priyansh+Singh;Machine+Learning+Engineer;Data+Scientist;Full+Stack+Developer;Generative+AI+Enthusiast" />
+</p>
 
 <p align="center">
   <b>Data Scientist | AI Engineer | MERN Stack Developer | Software Developer | Data Analyst</b>
@@ -67,11 +69,6 @@ My work spans **data analysis, model development, Generative AI, backend enginee
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&logoWidth=30)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&logoWidth=30)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=30)
-
----
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=800&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Priyansh+Singh;Machine+Learning+Engineer;Data+Scientist;Full+Stack+Developer;Generative+AI+Enthusiast" />
-</p>
 
 ---
 
