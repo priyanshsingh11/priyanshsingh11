@@ -116,3 +116,7 @@ My work spans **data analysis, model development, Generative AI, backend enginee
 <p align="center">
   <b>If you like my work, consider starring a repository.</b>
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
