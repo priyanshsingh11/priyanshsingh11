@@ -70,7 +70,7 @@ My work spans **data analysis, model development, Generative AI, backend enginee
 
 ---
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=priyanshsingh11&theme=radical&no-frame=true&column=6" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=800&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Priyansh+Singh;Machine+Learning+Engineer;Data+Scientist;Full+Stack+Developer;Generative+AI+Enthusiast" />
 </p>
 
 ---
