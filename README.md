@@ -97,10 +97,6 @@ I enjoy solving real-world problems with clean, efficient code and delivering ro
 - Love solving **hard real-world problems**
 - Believe in **production > theory**
 
-<p align="center">
-  <b>If you like my work, consider starring a repository.</b>
-</p>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
