@@ -91,7 +91,6 @@ I enjoy solving real-world problems with clean, efficient code and delivering ro
 - Open to **Software, AI, ML & Data roles**
 - Love solving **hard real-world problems**
 - Believe in **production > theory**
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
