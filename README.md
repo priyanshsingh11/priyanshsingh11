@@ -50,20 +50,17 @@ My work spans **data analysis, model development, Generative AI, backend enginee
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi)
-
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FFDD00?style=flat)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv)
-
 ![Transformers](https://img.shields.io/badge/Transformers-FFCC00?style=flat&logo=huggingface)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface)
 ![LangChain](https://img.shields.io/badge/LangChain-1C1C1C?style=flat)
 ![LangGraph](https://img.shields.io/badge/LangGraph-2B2B2B?style=flat)
 ![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented--Generation-6A5ACD?style=flat)
-
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau)
@@ -72,7 +69,6 @@ My work spans **data analysis, model development, Generative AI, backend enginee
 ![ETL Pipelines](https://img.shields.io/badge/ETL%20Pipelines-795548?style=flat)
 ![DAX](https://img.shields.io/badge/DAX-0B6EFD?style=flat)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow)
