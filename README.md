@@ -12,10 +12,8 @@
 
 ## About Me  
 
-I am a Data Scientist and AI Engineer with strong experience in MERN stack development, software engineering, and data analysis. I build end-to-end, production-ready systems—from full-stack web applications and scalable backend services to machine learning, deep learning, and AI-powered solutions.
-
+I am a Data Scientist and AI Engineer with strong experience in MERN stack development, software engineering, and data analysis. I build end-to-end, production-ready systems from full-stack web applications and scalable backend services to machine learning, deep learning, and AI-powered solutions.
 My work spans data analysis, model development, Generative AI, backend engineering, and full-stack development, with a solid understanding of MLOps practices for taking models from experimentation to production. I have hands-on experience with model deployment, API serving, versioning, monitoring, and scalable inference pipelines, ensuring reliability and performance in real-world environments.
-
 I enjoy solving real-world problems with clean, efficient code and delivering robust, production-grade systems that create measurable business impact..
 
 ---
