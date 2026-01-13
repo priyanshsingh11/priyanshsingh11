@@ -38,58 +38,50 @@ My work spans **data analysis, model development, Generative AI, backend enginee
 # Tools & Technologies  
 
 ## 🛠️ Tech Stack & Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FFDD00?style=flat)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv)
-![Transformers](https://img.shields.io/badge/Transformers-FFCC00?style=flat&logo=huggingface)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface)
-![LangChain](https://img.shields.io/badge/LangChain-1C1C1C?style=flat)
-![LangGraph](https://img.shields.io/badge/LangGraph-2B2B2B?style=flat)
-![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented--Generation-6A5ACD?style=flat)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau)
-![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-4CAF50?style=flat)
-![Data Modeling](https://img.shields.io/badge/Data%20Modeling-673AB7?style=flat)
-![ETL Pipelines](https://img.shields.io/badge/ETL%20Pipelines-795548?style=flat)
-![DAX](https://img.shields.io/badge/DAX-0B6EFD?style=flat)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow)
-![DVC](https://img.shields.io/badge/DVC-13ADC7?style=flat)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow)
-![CI/CD](https://img.shields.io/badge/CI/CD-GitHub_Actions-2088FF?style=flat&logo=githubactions)
-![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?style=flat&logo=amazonaws)
-![Linux](https://img.shields.io/badge/Linux-Server-FCC624?style=flat&logo=linux)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
----
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FFDD00?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv)
 
+![Transformers](https://img.shields.io/badge/Transformers-FFCC00?style=flat-square&logo=huggingface)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface)
+![LangChain](https://img.shields.io/badge/LangChain-1C1C1C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-2B2B2B?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented--Generation-6A5ACD?style=flat-square)
 
-## What I Love Building  
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-4CAF50?style=flat-square)
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-673AB7?style=flat-square)
+![ETL Pipelines](https://img.shields.io/badge/ETL%20Pipelines-795548?style=flat-square)
+![DAX](https://img.shields.io/badge/DAX-0B6EFD?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
 
-- AI & **LLM-powered systems** grounded with RAG  
-- **Agentic workflows** using LangGraph  
-- Full-stack **MERN applications**  
-- Scalable **software systems & APIs**  
-- Data-driven **ML & CV solutions**  
-
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow)
+![DVC](https://img.shields.io/badge/DVC-13ADC7?style=flat-square)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow)
+![CI/CD](https://img.shields.io/badge/CI/CD-GitHub_Actions-2088FF?style=flat-square&logo=githubactions)
+![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?style=flat-square&logo=amazonaws)
+![Linux](https://img.shields.io/badge/Linux-Server-FCC624?style=flat-square&logo=linux)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 ---
 
 
