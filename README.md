@@ -95,14 +95,6 @@ I enjoy solving real-world problems with clean, efficient code and delivering ro
 
 ---
 
-## Quote I Live By  
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
-
----
-
 ## Let’s Build Something Impactful  
 
 - Open to **Software, AI, ML & Data roles**
