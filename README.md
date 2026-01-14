@@ -66,10 +66,6 @@ I enjoy solving real-world problems with clean, efficient code and delivering ro
   </tr>
   <tr>
     <td align="center" width="96"><img src="https://simpleicons.org/icons/langgraph.svg" width="48"/><br>LangGraph</td>
-    <td align="center" width="96"><img src="https://simpleicons.org/icons/openai.svg" width="48"/><br>RAG</td>
-    <td align="center" width="96"><img src="https://simpleicons.org/icons/powerbi.svg" width="48"/><br>Power BI</td>
-    <td align="center" width="96"><img src="https://simpleicons.org/icons/microsoftexcel.svg" width="48"/><br>Excel</td>
-    <td align="center" width="96"><img src="https://simpleicons.org/icons/tableau.svg" width="48"/><br>Tableau</td>
     <td align="center" width="96"><img src="https://simpleicons.org/icons/docker.svg" width="48"/><br>Docker</td>
     <td align="center" width="96"><img src="https://simpleicons.org/icons/kubernetes.svg" width="48"/><br>Kubernetes</td>
   </tr>
