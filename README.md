@@ -48,6 +48,16 @@ I enjoy solving real-world problems with clean, efficient code and delivering ro
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"/><br>HTML5</td>
   </tr>
 
+   <tr>
+    <td align="center" width="96"><img src="https://simpleicons.org/icons/langgraph.svg" width="48"/><br>LangGraph</td>
+    <td align="center" width="96"><img src="https://simpleicons.org/icons/docker.svg" width="48"/><br>Docker</td>
+    <td align="center" width="96"><img src="https://simpleicons.org/icons/kubernetes.svg" width="48"/><br>Kubernetes</td>
+    <td align="center" width="96"><img src="https://simpleicons.org/icons/mlflow.svg" width="48"/><br>MLflow</td>
+    <td align="center" width="96"><img src="https://simpleicons.org/icons/apacheairflow.svg" width="48"/><br>Airflow</td>
+    <td align="center" width="96"><img src="https://simpleicons.org/icons/dvc.svg" width="48"/><br>DVC</td>
+    <td align="center" width="96"><img src="https://simpleicons.org/icons/githubactions.svg" width="48"/><br>GitHub Actions</td>
+  </tr>
+
   <tr>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48"/><br>CSS3</td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48"/><br>TailwindCSS</td>
@@ -66,16 +76,6 @@ I enjoy solving real-world problems with clean, efficient code and delivering ro
     <td align="center" width="96"><img src="https://simpleicons.org/icons/huggingface.svg" width="48"/><br>Transformers</td>
     <td align="center" width="96"><img src="https://simpleicons.org/icons/huggingface.svg" width="48"/><br>Hugging Face</td>
     <td align="center" width="96"><img src="https://simpleicons.org/icons/langchain.svg" width="48"/><br>LangChain</td>
-  </tr>
-
-  <tr>
-    <td align="center" width="96"><img src="https://simpleicons.org/icons/langgraph.svg" width="48"/><br>LangGraph</td>
-    <td align="center" width="96"><img src="https://simpleicons.org/icons/docker.svg" width="48"/><br>Docker</td>
-    <td align="center" width="96"><img src="https://simpleicons.org/icons/kubernetes.svg" width="48"/><br>Kubernetes</td>
-    <td align="center" width="96"><img src="https://simpleicons.org/icons/mlflow.svg" width="48"/><br>MLflow</td>
-    <td align="center" width="96"><img src="https://simpleicons.org/icons/apacheairflow.svg" width="48"/><br>Airflow</td>
-    <td align="center" width="96"><img src="https://simpleicons.org/icons/dvc.svg" width="48"/><br>DVC</td>
-    <td align="center" width="96"><img src="https://simpleicons.org/icons/githubactions.svg" width="48"/><br>GitHub Actions</td>
   </tr>
 
   <tr>
