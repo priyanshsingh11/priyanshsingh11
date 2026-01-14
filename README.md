@@ -41,35 +41,35 @@ I enjoy solving real-world problems with clean, efficient code and delivering ro
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/><br>Python</td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48"/><br>C++</td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/><br>JavaScript</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"/><br>HTML5</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48"/><br>CSS3</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"/><br>React</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48"/><br>Tailwind</td>
-  </tr>
-  <tr>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48"/><br>FastAPI</td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48"/><br>Node.js</td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48"/><br>Express</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48"/><br>FastAPI</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48"/><br>MongoDB</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"/><br>MySQL</td>
-    <td align="center" width="96"><img src="https://simpleicons.org/icons/git.svg" width="48"/><br>Git</td>
-    <td align="center" width="96"><img src="https://simpleicons.org/icons/github.svg" width="48"/><br>GitHub</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"/><br>HTML5</td>
   </tr>
   <tr>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48"/><br>CSS3</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48"/><br>TailwindCSS</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"/><br>React</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48"/><br>MongoDB</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"/><br>MySQL</td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/><br>NumPy</td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/><br>Pandas</td>
+  </tr>
+  <tr>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48"/><br>Scikit-Learn</td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48"/><br>OpenCV</td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48"/><br>TensorFlow</td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48"/><br>PyTorch</td>
+    <td align="center" width="96"><img src="https://simpleicons.org/icons/huggingface.svg" width="48"/><br>Transformers</td>
     <td align="center" width="96"><img src="https://simpleicons.org/icons/huggingface.svg" width="48"/><br>Hugging Face</td>
+    <td align="center" width="96"><img src="https://simpleicons.org/icons/langchain.svg" width="48"/><br>LangChain</td>
   </tr>
   <tr>
-    <td align="center" width="96"><img src="https://simpleicons.org/icons/langchain.svg" width="48"/><br>LangChain</td>
     <td align="center" width="96"><img src="https://simpleicons.org/icons/langgraph.svg" width="48"/><br>LangGraph</td>
     <td align="center" width="96"><img src="https://simpleicons.org/icons/openai.svg" width="48"/><br>RAG</td>
-    <td align="center" width="96"><img src="https://simpleicons.org/icons/streamlit.svg" width="48"/><br>Streamlit</td>
-    <td align="center" width="96"><img src="https://simpleicons.org/icons/pydantic.svg" width="48"/><br>Pydantic</td>
+    <td align="center" width="96"><img src="https://simpleicons.org/icons/powerbi.svg" width="48"/><br>Power BI</td>
+    <td align="center" width="96"><img src="https://simpleicons.org/icons/microsoftexcel.svg" width="48"/><br>Excel</td>
+    <td align="center" width="96"><img src="https://simpleicons.org/icons/tableau.svg" width="48"/><br>Tableau</td>
     <td align="center" width="96"><img src="https://simpleicons.org/icons/docker.svg" width="48"/><br>Docker</td>
     <td align="center" width="96"><img src="https://simpleicons.org/icons/kubernetes.svg" width="48"/><br>Kubernetes</td>
   </tr>
@@ -78,10 +78,21 @@ I enjoy solving real-world problems with clean, efficient code and delivering ro
     <td align="center" width="96"><img src="https://simpleicons.org/icons/apacheairflow.svg" width="48"/><br>Airflow</td>
     <td align="center" width="96"><img src="https://simpleicons.org/icons/dvc.svg" width="48"/><br>DVC</td>
     <td align="center" width="96"><img src="https://simpleicons.org/icons/githubactions.svg" width="48"/><br>GitHub Actions</td>
-    <td align="center" width="96"><img src="https://simpleicons.org/icons/amazonwebservices.svg" width="48"/><br>AWS</td>
+    <td align="center" width="96"><img src="https://simpleicons.org/icons/amazonaws.svg" width="48"/><br>AWS</td>
     <td align="center" width="96"><img src="https://simpleicons.org/icons/linux.svg" width="48"/><br>Linux</td>
+    <td align="center" width="96"><img src="https://simpleicons.org/icons/git.svg" width="48"/><br>Git</td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://simpleicons.org/icons/github.svg" width="48"/><br>GitHub</td>
+    <td align="center" width="96"><br>Machine Learning</td>
+    <td align="center" width="96"><br>Deep Learning</td>
+    <td align="center" width="96"><br>Data Cleaning</td>
+    <td align="center" width="96"><br>Data Modeling</td>
+    <td align="center" width="96"><br>ETL Pipelines</td>
+    <td align="center" width="96"><br>DAX</td>
   </tr>
 </table>
+
 ---
 
 
