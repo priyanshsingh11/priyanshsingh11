@@ -1,8 +1,12 @@
 <img src="https://steamuserimages-a.akamaihd.net/ugc/2438013375536940927/D370DBF7BFC83ED36F783F08A598FFF3E71A1D61/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="125%" />
+<table align="center" width="100%">
+  <tr>
+    <!-- LEFT COLUMN -->
+    <td width="50%" align="center" valign="top">
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=800&center=true&vCenter=true&width=650&color=36BCF7&lines=Hi%2C+I'm+Priyansh+Singh" 
+    src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=800&center=true&vCenter=true&width=450&color=36BCF7&lines=Hi%2C+I'm+Priyansh+Singh" 
   />
 </p>
 
@@ -16,16 +20,22 @@
   />
 </p>
 
----
+    </td>
 
-## 👨‍💻 About Me
+    <!-- RIGHT COLUMN -->
+    <td width="50%" valign="top">
+
+### 👨‍💻 About Me
 
 - Data Scientist & AI Engineer with experience in **MERN stack**, **software engineering**, and **data analysis**.
-- Build **end-to-end, production-ready systems** across full-stack applications, backend services, and **AI/ML solutions**.
+- Build **end-to-end, production-ready systems** across full-stack apps, backend services, and **AI/ML solutions**.
 - Skilled in **Machine Learning, Deep Learning, and Generative AI**, from experimentation to deployment.
 - Strong understanding of **MLOps**, including deployment, API serving, versioning, and monitoring.
 - Focused on **clean, efficient code** and delivering **scalable, high-impact systems**.
 
+    </td>
+  </tr>
+</table>
 
 ---
 
