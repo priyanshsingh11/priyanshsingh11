@@ -2,35 +2,37 @@
 
 <table align="center" width="100%">
   <tr>
-    <!-- LEFT COLUMN -->
+    <!-- LEFT SIDE -->
     <td width="50%" align="center" valign="top">
 
-  <p align="center">
-    <img 
-      src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=800&center=true&vCenter=true&width=450&color=36BCF7&lines=Hi%2C+I'm+Priyansh+Singh" 
-    />
-  </p>
-  
-  <p align="center">
-    <b>Data Scientist | AI Engineer | MERN Stack Developer | Software Developer | Data Analyst</b>
-  </p>
-  
-  <p align="center">
-    <img 
-      src="https://komarev.com/ghpvc/?username=priyanshsingh11&label=Profile%20Views&color=red&style=for-the-badge"
-    />
-  </p>
+      <img 
+        src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=800&center=true&vCenter=true&width=420&color=36BCF7&lines=Hi%2C+I'm+Priyansh+Singh"
+      />
+
+      <br><br>
+
+      <b>Data Scientist | AI Engineer | MERN Stack Developer<br>
+      Software Developer | Data Analyst</b>
+
+      <br><br>
+
+      <img 
+        src="https://komarev.com/ghpvc/?username=priyanshsingh11&label=Profile%20Views&color=red&style=for-the-badge"
+      />
 
     </td>
 
-    <!-- RIGHT COLUMN -->
+    <!-- RIGHT SIDE -->
     <td width="50%" valign="top">
 
-- Data Scientist & AI Engineer with experience in **MERN stack**, **software engineering**, and **data analysis**.
-- Build **end-to-end, production-ready systems** across full-stack apps, backend services, and **AI/ML solutions**.
-- Skilled in **Machine Learning, Deep Learning, and Generative AI**, from experimentation to deployment.
-- Strong understanding of **MLOps**, including deployment, API serving, versioning, and monitoring.
-- Focused on **clean, efficient code** and delivering **scalable, high-impact systems**.
+      <b>About Me</b>
+      <ul>
+        <li>Data Scientist & AI Engineer with experience in <b>MERN stack</b>, <b>software engineering</b>, and <b>data analysis</b>.</li>
+        <li>Build <b>end-to-end, production-ready systems</b> across full-stack, backend, and <b>AI/ML solutions</b>.</li>
+        <li>Skilled in <b>Machine Learning, Deep Learning, and Generative AI</b>.</li>
+        <li>Strong understanding of <b>MLOps</b>: deployment, API serving, versioning, monitoring.</li>
+        <li>Focused on <b>clean code</b>, scalability, and real-world impact.</li>
+      </ul>
 
     </td>
   </tr>
