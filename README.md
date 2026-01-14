@@ -36,47 +36,52 @@ I enjoy solving real-world problems with clean, efficient code and delivering ro
 </p>
 
 ## Tech Stack & Skills
-
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![FastAPI](https://img.shields.io/badge/fastapi-%23005571.svg?style=for-the-badge&logo=fastapi)
-![Node.js](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/machine%20learning-%23FFDD00.svg?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/deep%20learning-%23FF6F00.svg?style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Transformers](https://img.shields.io/badge/transformers-%23FFCC00.svg?style=for-the-badge&logo=huggingface&logoColor=black)
-![Hugging Face](https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/langchain-%231C1C1C.svg?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/langgraph-%232B2B2B.svg?style=for-the-badge)
-![RAG](https://img.shields.io/badge/rag-%236A5ACD.svg?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/power%20bi-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/microsoft%20excel-%23217346.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Tableau](https://img.shields.io/badge/tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
-![Data Cleaning](https://img.shields.io/badge/data%20cleaning-%234CAF50.svg?style=for-the-badge)
-![Data Modeling](https://img.shields.io/badge/data%20modeling-%23673AB7.svg?style=for-the-badge)
-![ETL Pipelines](https://img.shields.io/badge/etl%20pipelines-%23795548.svg?style=for-the-badge)
-![DAX](https://img.shields.io/badge/dax-%230B6EFD.svg?style=for-the-badge)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![MLflow](https://img.shields.io/badge/mlflow-%230194E2.svg?style=for-the-badge&logo=mlflow&logoColor=white)
-![DVC](https://img.shields.io/badge/dvc-%2313ADC7.svg?style=for-the-badge)
-![Airflow](https://img.shields.io/badge/apache%20airflow-%23017CEE.svg?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/aws-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+<table align="center">
+  <tr>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/><br>Python</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48"/><br>C++</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/><br>JavaScript</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"/><br>HTML5</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48"/><br>CSS3</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"/><br>React</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48"/><br>Tailwind</td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48"/><br>Node.js</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48"/><br>Express</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48"/><br>FastAPI</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48"/><br>MongoDB</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"/><br>MySQL</td>
+    <td align="center" width="96"><img src="https://simpleicons.org/icons/git.svg" width="48"/><br>Git</td>
+    <td align="center" width="96"><img src="https://simpleicons.org/icons/github.svg" width="48"/><br>GitHub</td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/><br>NumPy</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/><br>Pandas</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48"/><br>Scikit-Learn</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48"/><br>OpenCV</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48"/><br>TensorFlow</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48"/><br>PyTorch</td>
+    <td align="center" width="96"><img src="https://simpleicons.org/icons/huggingface.svg" width="48"/><br>Hugging Face</td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://simpleicons.org/icons/langchain.svg" width="48"/><br>LangChain</td>
+    <td align="center" width="96"><img src="https://simpleicons.org/icons/langgraph.svg" width="48"/><br>LangGraph</td>
+    <td align="center" width="96"><img src="https://simpleicons.org/icons/openai.svg" width="48"/><br>RAG</td>
+    <td align="center" width="96"><img src="https://simpleicons.org/icons/streamlit.svg" width="48"/><br>Streamlit</td>
+    <td align="center" width="96"><img src="https://simpleicons.org/icons/pydantic.svg" width="48"/><br>Pydantic</td>
+    <td align="center" width="96"><img src="https://simpleicons.org/icons/docker.svg" width="48"/><br>Docker</td>
+    <td align="center" width="96"><img src="https://simpleicons.org/icons/kubernetes.svg" width="48"/><br>Kubernetes</td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://simpleicons.org/icons/mlflow.svg" width="48"/><br>MLflow</td>
+    <td align="center" width="96"><img src="https://simpleicons.org/icons/apacheairflow.svg" width="48"/><br>Airflow</td>
+    <td align="center" width="96"><img src="https://simpleicons.org/icons/dvc.svg" width="48"/><br>DVC</td>
+    <td align="center" width="96"><img src="https://simpleicons.org/icons/githubactions.svg" width="48"/><br>GitHub Actions</td>
+    <td align="center" width="96"><img src="https://simpleicons.org/icons/amazonwebservices.svg" width="48"/><br>AWS</td>
+    <td align="center" width="96"><img src="https://simpleicons.org/icons/linux.svg" width="48"/><br>Linux</td>
+  </tr>
+</table>
 ---
 
 
