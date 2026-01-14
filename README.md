@@ -55,7 +55,6 @@ I enjoy solving real-world problems with clean, efficient code and delivering ro
     <td align="center" width="96"><img src="https://simpleicons.org/icons/mlflow.svg" width="48"/><br>MLflow</td>
     <td align="center" width="96"><img src="https://simpleicons.org/icons/apacheairflow.svg" width="48"/><br>Airflow</td>
     <td align="center" width="96"><img src="https://simpleicons.org/icons/dvc.svg" width="48"/><br>DVC</td>
-    <td align="center" width="96"><img src="https://simpleicons.org/icons/githubactions.svg" width="48"/><br>GitHub Actions</td>
   </tr>
 
   <tr>
@@ -65,12 +64,10 @@ I enjoy solving real-world problems with clean, efficient code and delivering ro
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48"/><br>MongoDB</td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"/><br>MySQL</td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/><br>NumPy</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/><br>Pandas</td>
   </tr>
 
   <tr>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48"/><br>Scikit-Learn</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48"/><br>OpenCV</td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48"/><br>TensorFlow</td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48"/><br>PyTorch</td>
     <td align="center" width="96"><img src="https://simpleicons.org/icons/huggingface.svg" width="48"/><br>Transformers</td>
