@@ -24,23 +24,17 @@ I enjoy solving real-world problems with clean, efficient code and delivering ro
 
 ## Connect With Me  
 <p align="center">
-
-<a href="https://www.linkedin.com/in/priyansh-singh-575a57289/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/xpriyanshsingh/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://portfolio-xe6q.onrender.com/portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="mailto:your_email@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/priyansh-singh-575a57289/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.instagram.com/xpriyanshsingh/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  
+  <a href="https://portfolio-xe6q.onrender.com/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
 
