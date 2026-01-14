@@ -1,6 +1,6 @@
 <img src="https://steamuserimages-a.akamaihd.net/ugc/2438013375536940927/D370DBF7BFC83ED36F783F08A598FFF3E71A1D61/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="125%" />
 
-allign this like -><p align="center">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=800&center=true&vCenter=true&width=650&color=36BCF7&lines=Hi%2C+I'm+Priyansh+Singh" />
 </p>
 
@@ -16,6 +16,7 @@ allign this like -><p align="center">
 - Skilled in **machine learning, deep learning, and Generative AI**, from experimentation to deployment.
 - Strong understanding of **MLOps**, including model deployment, API serving, versioning, and monitoring.
 - Focused on writing **clean, efficient code** and delivering **scalable, high-impact systems**.
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=priyanshsingh11&label=Profile%20Views&color=red&style=for-the-badge"/>
 </p>
