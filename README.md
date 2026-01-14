@@ -84,12 +84,6 @@ I enjoy solving real-world problems with clean, efficient code and delivering ro
   </tr>
   <tr>
     <td align="center" width="96"><img src="https://simpleicons.org/icons/github.svg" width="48"/><br>GitHub</td>
-    <td align="center" width="96"><br>Machine Learning</td>
-    <td align="center" width="96"><br>Deep Learning</td>
-    <td align="center" width="96"><br>Data Cleaning</td>
-    <td align="center" width="96"><br>Data Modeling</td>
-    <td align="center" width="96"><br>ETL Pipelines</td>
-    <td align="center" width="96"><br>DAX</td>
   </tr>
 </table>
 
