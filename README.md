@@ -11,11 +11,11 @@
 ---
 
 ## About Me  
-
-I am a Data Scientist and AI Engineer with strong experience in MERN stack development, software engineering, and data analysis. I build end-to-end, production-ready systems from full-stack web applications and scalable backend services to machine learning, deep learning, and AI-powered solutions.
-My work spans data analysis, model development, Generative AI, backend engineering, and full-stack development, with a solid understanding of MLOps practices for taking models from experimentation to production. I have hands-on experience with model deployment, API serving, versioning, monitoring, and scalable inference pipelines, ensuring reliability and performance in real-world environments.
-I enjoy solving real-world problems with clean, efficient code and delivering robust, production-grade systems that create measurable business impact..
-
+- Data Scientist & AI Engineer with experience in **MERN stack**, **software engineering**, and **data analysis**.
+- Build **end-to-end, production-ready systems** across full-stack apps, backend services, and **AI/ML solutions**.
+- Skilled in **machine learning, deep learning, and Generative AI**, from experimentation to deployment.
+- Strong understanding of **MLOps**, including model deployment, API serving, versioning, and monitoring.
+- Focused on writing **clean, efficient code** and delivering **scalable, high-impact systems**.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=priyanshsingh11&label=Profile%20Views&color=red&style=for-the-badge"/>
 </p>
