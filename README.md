@@ -63,7 +63,6 @@
 ![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 ![Transformers](https://img.shields.io/badge/transformers-%23FFCC00.svg?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Hugging Face](https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
@@ -74,10 +73,6 @@
 ![Power BI](https://img.shields.io/badge/power%20bi-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/microsoft%20excel-%23217346.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
-![Data Cleaning](https://img.shields.io/badge/data%20cleaning-%234CAF50.svg?style=for-the-badge)
-![Data Modeling](https://img.shields.io/badge/data%20modeling-%23673AB7.svg?style=for-the-badge)
-![ETL Pipelines](https://img.shields.io/badge/etl%20pipelines-%23795548.svg?style=for-the-badge)
-![DAX](https://img.shields.io/badge/dax-%230B6EFD.svg?style=for-the-badge)
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
