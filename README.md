@@ -98,13 +98,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=priyanshsingh11&show_icons=true&theme=radical&hide_border=true" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshsingh11&layout=compact&theme=radical&hide_border=true"/>
-</p>
-
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=priyanshsingh11&theme=radical"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyanshsingh11&theme=radical"/>
 </p>
 
