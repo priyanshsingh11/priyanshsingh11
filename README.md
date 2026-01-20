@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshsingh11&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=priyanshsingh11&theme=radical"/>
 </p>
+
 
 
 <p align="center">
