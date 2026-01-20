@@ -5,12 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyanshsingh11&theme=radical"/>
-</p>
-
-
-
-<p align="center">
   <b>Data Scientist | AI Engineer | MERN Stack Developer | Software Developer | Data Analyst</b>
 </p>
 
@@ -109,7 +103,8 @@
 </p>
 
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=priyanshsingh11&theme=radical"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyanshsingh11&theme=radical"/>
+</p>
 
