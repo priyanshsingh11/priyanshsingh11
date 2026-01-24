@@ -17,8 +17,11 @@
 - Strong understanding of **MLOps**, including model deployment, API serving, versioning, and monitoring.
 - Focused on writing **clean, efficient code** and delivering **scalable, high-impact systems**.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=priyanshsingh11&label=Profile%20Views&color=red)](https://github.com/priyanshsingh11)
-
+<p align="center">
+  <a href="https://github.com/priyanshsingh11">
+    <img src="https://komarev.com/ghpvc/?username=priyanshsingh11&label=Profile%20Views&color=red" />
+  </a>
+</p>
 
 ---
 
