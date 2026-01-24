@@ -25,8 +25,6 @@
 ---
 
 ## Connect With Me  
-## 🌐 Socials
-
 <p align="center">
   <a href="https://www.linkedin.com/in/priyansh-singh-575a57289/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
@@ -45,12 +43,11 @@
   </a>
 </p>
 
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xpriyanshsingh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyansh-singh-575a57289) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyanshsingh855@gmail.com) 
 
 
 ## Tech Stack & Skills
 <p align="center">
-
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -94,8 +91,6 @@
 ![Power BI](https://img.shields.io/badge/power%20bi-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/microsoft%20excel-%23217346.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
-
-
 </p>
 
 ---
