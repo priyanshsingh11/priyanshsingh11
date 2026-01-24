@@ -16,9 +16,7 @@
 - Skilled in **machine learning, deep learning, and Generative AI**, from experimentation to deployment.
 - Strong understanding of **MLOps**, including model deployment, API serving, versioning, and monitoring.
 - Focused on writing **clean, efficient code** and delivering **scalable, high-impact systems**.
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=priyanshsingh11&label=Profile%20Views&color=red&style=for-the-badge" />
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=priyanshsingh11&label=Profile%20Views&color=red)](https://github.com/priyanshsingh11)
 
 
 ---
