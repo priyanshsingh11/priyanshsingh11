@@ -17,10 +17,9 @@
 
 <p align="center">
   <a href="https://github.com/priyanshsingh11">
-    <img src="https://komarev.com/ghpvc/?username=priyanshsingh11&label=Profile%20Views&color=red&style=for-the-badge" />
+    <img src="https://komarev.com/ghpvc/?username=priyanshsingh11&label=Profile%20Views&color=0A66C2&style=for-the-badge" />
   </a>
-</p
-
+</p>
 ---
 
 ## Connect With Me
