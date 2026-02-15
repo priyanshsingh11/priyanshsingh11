@@ -85,9 +85,7 @@
 ---
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshsingh11&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
-</p>
+![](https://github-contributor-stats.vercel.app/api?username=priyanshsingh11&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=priyanshsingh11&theme=dark&hide_border=false" />
