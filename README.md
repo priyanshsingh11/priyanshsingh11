@@ -84,9 +84,6 @@
 
 ---
 
-
-![](https://github-contributor-stats.vercel.app/api?username=priyanshsingh11&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=priyanshsingh11&theme=dark&hide_border=false" />
 </p>
