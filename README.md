@@ -75,14 +75,11 @@
 ![Tableau](https://img.shields.io/badge/tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
 </p>
 
----
-
 
 <p align="center">
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/priyanshsingh11/priyanshsingh11/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
----
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=priyanshsingh11&theme=dark&hide_border=false" />
