@@ -83,4 +83,7 @@
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=priyanshsingh11&theme=dark&hide_border=false" />
-</p>
+</p
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
