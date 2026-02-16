@@ -29,6 +29,10 @@
 
 ## Tech Stack & Skills
 <p align="center">
+<p align="center"> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshsingh11&theme=github-dark" /> 
+</p>
+
   
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -78,10 +82,6 @@
 
 <p align="center">
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/priyanshsingh11/priyanshsingh11/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-<p align="center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshsingh11&theme=github-dark" /> 
 </p>
 
 <p align="center"> 
