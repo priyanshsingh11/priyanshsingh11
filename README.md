@@ -85,7 +85,6 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=priyanshsingh11&theme=dark&hide_border=false" />
 </p
 
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshsingh11&theme=black" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshsingh11&theme=github-dark" />
 </p>
