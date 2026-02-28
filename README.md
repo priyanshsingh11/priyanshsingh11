@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=800&center=true&vCenter=true&width=650&color=36BCF7&lines=Hi%2C+I'm+Priyansh+Singh" />
 </p>
 
-- Data Scientist & AI Engineer with experience in **MERN stack**, **software engineering**, and **data analysis**.
+- Data Scientist & AI Engineer with experience in **MERN stack**, **Next.JS**, **software engineering**, and **data analysis**.
 - Build **end-to-end, production-ready systems** across full-stack apps, backend services, and **AI/ML solutions**.
 - Skilled in **machine learning, deep learning, and Generative AI**, from experimentation to deployment.
 - Strong understanding of **MLOps**, including model deployment, API serving, versioning, and monitoring.
