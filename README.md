@@ -30,7 +30,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshsingh11&theme=github-dark" /> 
 </p>
 
-
 ## Tech Stack & Skills
 <p align="center">
   
