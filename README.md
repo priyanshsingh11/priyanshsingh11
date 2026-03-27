@@ -9,11 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=800&center=true&vCenter=true&width=650&color=36BCF7&lines=Hi%2C+I'm+Priyansh+Singh" />
 </p>
 
-- Full Stack & AI/ML Engineer (MERN, Next.js) with experience in software engineering, data analysis, and building scalable AI-powered web applications.
-- Build **end-to-end, production-ready systems** across full-stack apps, backend services, and **AI/ML solutions**.
-- Skilled in **machine learning, deep learning, and Generative AI**, from experimentation to deployment.
-- Strong understanding of **MLOps**, including model deployment, API serving, versioning, and monitoring.
-- Focused on writing **clean, efficient code** and delivering **scalable, high-impact systems**.
+- Full Stack & AI/ML Engineer (MERN, Next.js) specializing in building end-to-end scalable AI-powered systems, with expertise in software engineering, data analysis, machine learning, deep learning, Generative AI, and MLOps, focused on clean architecture and high-impact solutions.
 
 <p align="center">
   <a href="https://github.com/priyanshsingh11">
