@@ -4,12 +4,35 @@
     alt="Banner"
     width="100%"
   />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=800&center=true&vCenter=true&width=650&color=36BCF7&lines=Hi%2C+I'm+Priyansh+Singh" />
+</p>
 
 Exploring full stack development and AI/ML while continuously improving myself.
 I enjoy building scalable systems, optimized backends, and real-world AI applications.
 Worked with MERN, Next.js, ML/DL, GenAI, and MLOps (deployment, APIs, monitoring).
 Always curious about system design, performance, and impactful solutions :)
 
+
+<p align="center">
+  <a href="https://github.com/priyanshsingh11">
+    <img src="https://komarev.com/ghpvc/?username=priyanshsingh11&label=Profile%20Views&color=0A66C2&style=for-the-badge" />
+  </a>
+</p>
+
+## Connect With Me
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/xpriyanshsingh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyansh-singh-575a57289)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanshsingh855@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://web-page-ruby-five.vercel.app/)
+
+<p align="center"> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshsingh11&theme=github-dark" /> 
+</p>
+
+## Tech Stack & Skills
+<p align="center">
   
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -54,4 +77,13 @@ Always curious about system design, performance, and impactful solutions :)
 ![Power BI](https://img.shields.io/badge/power%20bi-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/microsoft%20excel-%23217346.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
+</p>
+
+
+<p align="center">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/priyanshsingh11/priyanshsingh11/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=priyanshsingh11&theme=tokyonight&hide_border=false" />
 </p>
