@@ -82,7 +82,6 @@ Always curious about system design, performance, and impactful solutions :)
 <p align="center">
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/priyanshsingh11/priyanshsingh11/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=priyanshsingh11&theme=tokyonight&hide_border=false" />
 </p>
