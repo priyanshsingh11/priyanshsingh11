@@ -27,9 +27,6 @@ Always curious about system design, performance, and impactful solutions :)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanshsingh855@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://web-page-ruby-five.vercel.app/)
 
-<p align="center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshsingh11&theme=github-dark" /> 
-</p>
 
 ## Tech Stack & Skills
 <p align="center">
