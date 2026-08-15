@@ -2,4 +2,5 @@
 
 I'm a Full-Stack AI Engineer who builds products end-to-end, from idea to production. I work across full-stack and mobile development, AI/GenAI, automation, backend systems, APIs, databases, and scalable architecture.
 
-I enjoy turning complex real-world problems into simple, reliable, and useful software — from designing the system and writing the code to integrating AI, automating workflows, and shipping it to production :) PEACE !!
+I enjoy turning complex real-world problems into simple, reliable, and useful software — from designing the system and writing the code to integrating AI, automating workflows, and shipping it to production.
+:) PEACE !!
