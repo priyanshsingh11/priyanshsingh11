@@ -18,7 +18,7 @@ Building software across full-stack development, AI/GenAI, mobile applications, 
 </p>
 
 <p align="center">
-  <strong>Build. Break. Learn. Repeat.</strong>
+  Build things, break things, learn from them, and keep improving.
 </p>
 
 <p align="center">
