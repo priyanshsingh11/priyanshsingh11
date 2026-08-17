@@ -4,7 +4,6 @@
 
 Building software across full-stack development, AI/GenAI, mobile applications, automation, backend systems, and cloud infrastructure. I enjoy taking ideas from scratch, experimenting with new technologies, and turning them into practical, reliable products. Currently focused on understanding how intelligent and scalable systems are designed, built, and deployed, while continuously improving my engineering skills. Always looking to build, break, learn, and improve :)
 
-
 <p align="center">
   <a href="https://web-page-ruby-five.vercel.app/">Portfolio</a>
   &nbsp;•&nbsp;
