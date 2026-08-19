@@ -32,6 +32,14 @@
   <strong>Build things, break things, learn from them, and keep improving.</strong>
 </p>
 
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/priyanshsingh11/priyanshsingh11/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub contribution snake"
+    width="100%"
+  />
+</p>
+
 <br />
 
 <p align="center">
@@ -44,10 +52,4 @@
 
 <br />
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/priyanshsingh11/priyanshsingh11/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub contribution snake"
-    width="100%"
-  />
-</p>
+
