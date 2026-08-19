@@ -26,3 +26,7 @@ Building software across full-stack development, AI/GenAI, mobile applications, 
     alt="GitHub contribution snake"
   />
 </p>
+
+## 📈 GitHub Contributions
+
+![GitHub Contribution Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyanshsingh11&theme=github_dark)
