@@ -6,7 +6,7 @@
   />
 </p>
 
-<p align="center">
+<p>
   Building software across full-stack development, AI/GenAI, mobile applications,
   automation, backend systems, and cloud infrastructure. I enjoy taking ideas
   from scratch, experimenting with new technologies, and turning them into
