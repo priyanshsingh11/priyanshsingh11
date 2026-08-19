@@ -42,14 +42,5 @@
 
 <br />
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyanshsingh11&theme=github_dark"
-    alt="GitHub Contribution Stats"
-    width="100%"
-  />
-</p>
-
-<br />
 
 
