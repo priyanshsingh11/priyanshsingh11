@@ -1,8 +1,20 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/priyanshsingh11/priyanshsingh11/main/banner.gif" alt="Priyansh Singh" width="100%" />
+  <img
+    src="https://raw.githubusercontent.com/priyanshsingh11/priyanshsingh11/main/banner.gif"
+    alt="Priyansh Singh"
+    width="100%"
+  />
 </p>
 
-Building software across full-stack development, AI/GenAI, mobile applications, automation, backend systems, and cloud infrastructure. I enjoy taking ideas from scratch, experimenting with new technologies, and turning them into practical, reliable products. Currently focused on understanding how intelligent and scalable systems are designed, built, and deployed, while continuously improving my engineering skills. Always looking to build, break, learn, and improve :)
+<p align="center">
+  Building software across full-stack development, AI/GenAI, mobile applications,
+  automation, backend systems, and cloud infrastructure. I enjoy taking ideas
+  from scratch, experimenting with new technologies, and turning them into
+  practical, reliable products. Currently focused on understanding how
+  intelligent and scalable systems are designed, built, and deployed, while
+  continuously improving my engineering skills. Always looking to build, break,
+  learn, and improve :)
+</p>
 
 <p align="center">
   <a href="https://web-page-ruby-five.vercel.app/">Portfolio</a>
@@ -17,16 +29,27 @@ Building software across full-stack development, AI/GenAI, mobile applications, 
 </p>
 
 <p align="center">
-  Build things, break things, learn from them, and keep improving.
+  <strong>Build things, break things, learn from them, and keep improving.</strong>
 </p>
+
+<br />
+
+<h2 align="center">📊 GitHub Contributions</h2>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyanshsingh11&theme=github_dark"
+    alt="GitHub Contribution Stats"
+    width="100%"
+  />
+</p>
+
+<br />
 
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/priyanshsingh11/priyanshsingh11/output/github-contribution-grid-snake-dark.svg"
     alt="GitHub contribution snake"
+    width="100%"
   />
 </p>
-
-## 📈 GitHub Contributions
-
-![GitHub Contribution Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyanshsingh11&theme=github_dark)
