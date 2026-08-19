@@ -32,9 +32,6 @@
   <strong>Build things, break things, learn from them, and keep improving.</strong>
 </p>
 
-<br />
-
-
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/priyanshsingh11/priyanshsingh11/output/github-contribution-grid-snake-dark.svg"
