@@ -16,13 +16,42 @@
   learn, and improve :)
 </p>
 
+<h2 align="center">⚡ Skills & Technologies</h2>
+
 <p align="center">
-  <strong>Skills</strong><br><br>
-  <code>Python</code> · <code>JavaScript</code> · <code>TypeScript</code> · <code>React</code> · <code>Next.js</code> · <code>Node.js</code> · <code>FastAPI</code> · <code>Express</code><br>
-  <code>GenAI</code> · <code>LLMs</code> · <code>RAG</code> · <code>AI Agents</code> · <code>LangChain</code> · <code>LangGraph</code> · <code>OpenAI</code> · <code>Hugging Face</code><br>
-  <code>Automation</code> · <code>n8n</code> · <code>APIs</code> · <code>Webhooks</code> · <code>WebSockets</code> · <code>Microservices</code><br>
-  <code>React Native</code> · <code>Flutter</code> · <code>Android</code> · <code>iOS</code> · <code>PostgreSQL</code> · <code>MongoDB</code> · <code>Redis</code><br>
-  <code>Docker</code> · <code>AWS</code> · <code>Vercel</code> · <code>Git</code> · <code>GitHub</code> · <code>CI/CD</code> · <code>Linux</code>
+  <strong>Languages</strong><br>
+  <code>Python</code> <code>JavaScript</code> <code>TypeScript</code> <code>Java</code> <code>C++</code>
+</p>
+
+<p align="center">
+  <strong>Full-Stack & Backend</strong><br>
+  <code>React</code> <code>Next.js</code> <code>Node.js</code> <code>Express</code> <code>FastAPI</code>
+  <code>REST APIs</code> <code>WebSockets</code> <code>Microservices</code>
+</p>
+
+<p align="center">
+  <strong>AI / GenAI</strong><br>
+  <code>LLMs</code> <code>RAG</code> <code>AI Agents</code> <code>LangChain</code>
+  <code>LangGraph</code> <code>OpenAI</code> <code>Hugging Face</code>
+</p>
+
+<p align="center">
+  <strong>Automation</strong><br>
+  <code>n8n</code> <code>Workflow Automation</code> <code>AI Automation</code>
+  <code>APIs</code> <code>Webhooks</code>
+</p>
+
+<p align="center">
+  <strong>Mobile & Data</strong><br>
+  <code>React Native</code> <code>Flutter</code> <code>Android</code> <code>iOS</code>
+  <code>PostgreSQL</code> <code>MongoDB</code> <code>Redis</code> <code>SQL</code>
+  <code>Data Analysis</code>
+</p>
+
+<p align="center">
+  <strong>Cloud & DevOps</strong><br>
+  <code>AWS</code> <code>Docker</code> <code>Vercel</code> <code>Git</code>
+  <code>GitHub</code> <code>CI/CD</code> <code>Linux</code>
 </p>
 
 <p align="center">
