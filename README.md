@@ -17,6 +17,15 @@
 </p>
 
 <p align="center">
+  <strong>Skills</strong><br><br>
+  <code>Python</code> · <code>JavaScript</code> · <code>TypeScript</code> · <code>React</code> · <code>Next.js</code> · <code>Node.js</code> · <code>FastAPI</code> · <code>Express</code><br>
+  <code>GenAI</code> · <code>LLMs</code> · <code>RAG</code> · <code>AI Agents</code> · <code>LangChain</code> · <code>LangGraph</code> · <code>OpenAI</code> · <code>Hugging Face</code><br>
+  <code>Automation</code> · <code>n8n</code> · <code>APIs</code> · <code>Webhooks</code> · <code>WebSockets</code> · <code>Microservices</code><br>
+  <code>React Native</code> · <code>Flutter</code> · <code>Android</code> · <code>iOS</code> · <code>PostgreSQL</code> · <code>MongoDB</code> · <code>Redis</code><br>
+  <code>Docker</code> · <code>AWS</code> · <code>Vercel</code> · <code>Git</code> · <code>GitHub</code> · <code>CI/CD</code> · <code>Linux</code>
+</p>
+
+<p align="center">
   <a href="https://web-page-ruby-five.vercel.app/">Portfolio</a>
   &nbsp;•&nbsp;
   <a href="https://github.com/priyanshsingh11">GitHub</a>
@@ -39,6 +48,3 @@
     width="100%"
   />
 </p>
-
-
-
