@@ -18,8 +18,8 @@
 </p>
 
 <p>
-  <code>Python</code> · <code>C++</code> · <code>Java</code> · <code>JavaScript</code> · <code>TypeScript</code> · <code>SQL</code> · <code>NoSQL</code> · <code>React</code> · <code>Next.js</code> · <code>Node.js</code> · <code>Express.js</code> · <code>FastAPI</code> · <code>Flask</code> ·
-  <code>React Native</code> · <code>Android</code> · <code>iOS</code> · <code>PostgreSQL</code> · <code>MySQL</code> · <code>MongoDB</code> · <code>Supabase</code> · <code>Redis</code> · <code>Caching</code> · <code>REST APIs</code> · <code>WebSockets</code> · <code>Microservices</code> ·
+  <code>Python</code> · <code>C++</code> · <code>Java</code> · <code>JavaScript</code> · <code>TypeScript</code> · <code>SQL</code> · <code>NoSQL</code> · <code>React</code> · <code>Next.js</code> · <code>Node.js</code> · <code>Express.js</code> · <code>FastAPI</code> · <code>Flask</code> ·  <code>iOS</code> ·
+  <code>React Native</code> · <code>Android</code> · <code>PostgreSQL</code> · <code>MySQL</code> · <code>MongoDB</code> · <code>Supabase</code> · <code>Redis</code> · <code>Caching</code> · <code>REST APIs</code> · <code>WebSockets</code> · <code>Microservices</code> ·
   <code>GenAI</code> · <code>LLMs</code> · <code>RAG</code> · <code>AI Agents</code> · <code>LangChain</code> · <code>LangGraph</code> · <code>OpenAI</code> · <code>Hugging Face</code> · <code>TensorFlow</code> · <code>PyTorch</code> · 
   <code>NumPy</code> · <code>Pandas</code> · <code>Matplotlib</code> · <code>Seaborn</code> · <code>Data Analysis</code> · <code>Tableau</code> · <code>Machine Learning</code> · <code>MLOps</code> · <code>MLflow</code> · 
   <code>Automation</code> · <code>n8n</code> · <code>PyAutoGUI</code> · <code>BeautifulSoup</code> · <code>Web Scraping</code> · <code>APIs</code> · <code>Webhooks</code> · <code>Workflow Automation</code> · 
