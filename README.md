@@ -16,7 +16,6 @@
   learn, and improve :)
 </p>
 
-<h2 align="center">⚡ Skills</h2>
 
 <p align="center">
   <code>Python</code> · <code>JavaScript</code> · <code>TypeScript</code> ·
