@@ -18,10 +18,6 @@
 
 
 <p>
-  <strong> Skills</strong>
-</p>
-
-<p>
   <code>Python</code> · <code>C++</code> · <code>Java</code> · <code>JavaScript</code> · <code>TypeScript</code> · <code>SQL</code> · <code>NoSQL</code> · <code>React</code> · <code>Next.js</code> · <code>Node.js</code> · <code>Express.js</code> · <code>FastAPI</code> · <code>Flask</code><br>
   <code>React Native</code> · <code>Android</code> · <code>iOS</code> · <code>PostgreSQL</code> · <code>MySQL</code> · <code>MongoDB</code> · <code>Supabase</code> · <code>Redis</code> · <code>Caching</code> · <code>REST APIs</code> · <code>WebSockets</code> · <code>Microservices</code><br>
   <code>GenAI</code> · <code>LLMs</code> · <code>RAG</code> · <code>AI Agents</code> · <code>LangChain</code> · <code>LangGraph</code> · <code>OpenAI</code> · <code>Hugging Face</code> · <code>TensorFlow</code> · <code>PyTorch</code><br>
