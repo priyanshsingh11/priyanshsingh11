@@ -6,6 +6,7 @@
   />
 </p>
 
+
 <p>
   Building software across full-stack development, AI/GenAI, mobile applications,
   automation, backend systems, and cloud infrastructure. I enjoy taking ideas
@@ -15,6 +16,7 @@
   continuously improving my engineering skills. Always looking to build, break,
   learn, and improve :)
 </p>
+
 
 <p>
   <code>Python</code> · <code>C++</code> · <code>Java</code> · <code>JavaScript</code> · <code>TypeScript</code> · <code>SQL</code> · <code>NoSQL</code> · <code>React</code> · <code>Next.js</code> · <code>Node.js</code> · <code>Express.js</code> · <code>FastAPI</code> · <code>Flask</code> ·  <code>iOS</code> ·
