@@ -16,7 +16,6 @@
   learn, and improve :)
 </p>
 
-
 <p>
   <code>Python</code> · <code>C++</code> · <code>Java</code> · <code>JavaScript</code> · <code>TypeScript</code> · <code>SQL</code> · <code>NoSQL</code> · <code>React</code> · <code>Next.js</code> · <code>Node.js</code> · <code>Express.js</code> · <code>FastAPI</code> · <code>Flask</code> ·  <code>iOS</code> ·
   <code>React Native</code> · <code>Android</code> · <code>PostgreSQL</code> · <code>MySQL</code> · <code>MongoDB</code> · <code>Supabase</code> · <code>Redis</code> · <code>Caching</code> · <code>REST APIs</code> · <code>WebSockets</code> ·
