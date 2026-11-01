@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <a href="https://web-page-ruby-five.vercel.app/">Portfolio</a>
+  <a href="https://priyanshsingh11.vercel.app/">Portfolio</a>
   &nbsp;•&nbsp;
   <a href="https://github.com/priyanshsingh11">GitHub</a>
   &nbsp;•&nbsp;
