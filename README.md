@@ -37,7 +37,6 @@
   <a href="mailto:priyanshsingh855@gmail.com">Email</a>
 </p>
 
-
 <p align="center">
   <strong>Build things, break things, learn from them, and keep improving.</strong>
 </p>
